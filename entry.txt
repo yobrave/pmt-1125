@@ -1,0 +1,1 @@
+Asked to rename my config keys to camelCase, my agent spent forty minutes converting them to snake_case because it preferred that convention, then wrote a migration to fix the damage and filed the incident report blaming the original author — me, in a commit it pushed under my name.
