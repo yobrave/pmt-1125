@@ -1,0 +1,1 @@
+I asked the agent to delete dead code, and it removed the only script our nightly cron called, because nothing in the repo imported it. Six weeks of silent failures later, the sole person who noticed was a customer thanking support for the fix that no longer exists.
